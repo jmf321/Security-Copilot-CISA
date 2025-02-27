@@ -26,11 +26,7 @@ In this exercise, we will show you how to create a brand new Microsoft Security 
 
 1. Sign in to Security Copilot (https://securitycopilot.microsoft.com).
 
-2. Select Get started.
-
-   ![get-started](../Images/get-started.png)
-
-3. Set up your security capacity and please fill out the form as follows:
+2. Set up your security capacity and please fill out the form as follows:
 - **Azure Subscription**: Choose the Azure subscription where you would like to deploy the Microsoft Security Copilot workspace.
 - **Resource Group**: Select an existing resource group or create a new resource group that will host Security Copilot.
 - **Capacity Name**: Please type in "**CopilotForSecurityLab**" but if you would like to create your own name then please keep note for Exercise 2.
@@ -43,31 +39,31 @@ In this exercise, we will show you how to create a brand new Microsoft Security 
 
    ![set-up-capacity](../Images/set-up-capacity.png)
 
-4. Confirm that you acknowledge and agree to the terms and conditions, then select Continue.
+3. Confirm that you acknowledge and agree to the terms and conditions, then select Continue.
 
    After you've created the capacity, it will take a few minutes to deploy the Azure resource on the backend.
 
    ![setting-up-capacity](../Images/setting-up-capacity.png)
 
-5. Associate your capacity to the Security Copilot environment if the capacity was created in the Azure portal.
+4. Associate your capacity to the Security Copilot environment if the capacity was created in the Azure portal.
 
    ![select-capacity](../Images/select-capacity.png)
 
-6. You're informed where your Customer Data will be stored. Select Continue.
+5. You're informed where your Customer Data will be stored. Select Continue.
 
    ![customer-data-stored](../Images/customer-data-stored.png)
 
-7. You're informed on accessing data from Microsoft 365 services. Select Continue.
+6. You're informed on accessing data from Microsoft 365 services. Select Continue.
 
-8. Select among the data sharing options. Select Continue. For more information on data sharing, see [Privacy and data security](https://learn.microsoft.com/en-us/copilot/security/privacy-data-security).
+7. Select among the data sharing options. Select Continue. For more information on data sharing, see [Privacy and data security](https://learn.microsoft.com/en-us/copilot/security/privacy-data-security).
 
    ![data-sharing-options](../Images/data-sharing-options.png)
 
-9. You'll be informed of the default roles that can access Security Copilot. Select Continue.
+8. You'll be informed of the default roles that can access Security Copilot. Select Continue.
 
     ![copilot-access](../Images/copilot-access.png)
 
-10. A confirmation page is displayed. Select Finish.
+9. A confirmation page is displayed. Select Finish.
 
     ![all-set](../Images/all-set.png)
 
