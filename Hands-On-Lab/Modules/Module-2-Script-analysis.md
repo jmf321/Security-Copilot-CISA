@@ -11,7 +11,7 @@ This module guides you through how to use promptbooks and how to analyze the som
 
 ### Prerequisites
 
-You must have completed Module 1 or have an exisiting instance of Copilot For Security installed. If you do not have a working instance of Copilot for Security please click [click here to complete Module 1](Module-1-Setting-up-the-the-environment.md).
+You must have completed Module 1 or have an exisiting instance of Copilot For Security installed. If you do not have a working instance of Security Copilot please click [click here to complete Module 1](Module-1-Setting-up-the-the-environment.md).
 
 ### Items to note
 
